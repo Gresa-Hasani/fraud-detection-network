@@ -1,0 +1,251 @@
+ip,country,city,isp,is_vpn,is_proxy,is_tor,latitude,longitude,risk_score
+193.67.194.93,TR,New Ashleyville,Morrison-Gutierrez Telecom,False,False,False,29.555783,-81.637827,0
+207.241.223.13,GB,Port Bobbyburgh,Turner Group Telecom,False,False,False,49.34203,-28.217747,0
+184.238.9.191,IT,West David,Bridges-Andrade Telecom,False,False,False,-44.986006,-34.369177,0
+50.183.119.65,XK,Lake Ashleefurt,Adams LLC Telecom,False,False,False,-45.4213,43.615627,0
+133.165.60.105,XK,Duffyland,Ryan-White Telecom,False,False,False,-2.262249,19.755936,0
+148.28.74.33,CH,Hallton,"Hickman, Christensen and Martinez Telecom",False,False,False,-5.417204,18.09681,0
+143.247.162.3,TR,South Sandra,Campbell-Woodard Telecom,False,True,False,50.634037,26.467585,0
+174.250.231.150,DE,Port Robert,Warner-Flores Telecom,False,False,False,-13.292113,3.895893,0
+191.170.81.189,AT,South Ashleystad,Lopez-Rosales Telecom,False,False,False,-58.682742,87.6933,0
+208.138.83.137,IT,Port Keithside,Clark LLC Telecom,False,False,False,18.388118,17.388436,0
+212.247.241.136,XK,Lake Rogerport,Sanchez-Hall Telecom,False,False,False,7.800041,57.076262,0
+29.217.106.84,DE,Loritown,"Austin, Mccarthy and Casey Telecom",False,False,False,49.699243,-51.814635,0
+86.91.146.124,XK,South Mauricebury,"Crawford, Castro and Higgins Telecom",False,False,False,-40.291314,36.473763,0
+31.16.200.181,AL,South Rhondaland,Richardson Group Telecom,False,False,False,-19.326893,40.729527,0
+91.177.216.32,DE,Stevenburgh,Cook-Christensen Telecom,False,False,False,57.0213,15.069339,0
+72.11.105.203,AL,New Brianville,"Wilson, Fisher and Cooper Telecom",False,False,False,61.854924,77.770628,0
+115.108.5.238,XK,Lanceport,"Taylor, Miller and Richardson Telecom",False,False,False,-33.56782,35.125202,0
+42.217.254.153,TR,Hollyfurt,Skinner and Sons Telecom,False,False,False,-1.55414,-6.681259,0
+65.121.234.243,IT,Smithchester,"Davis, Jones and Molina Telecom",False,False,False,1.424589,0.642398,0
+217.107.172.112,GB,North Robin,Silva-Olsen Telecom,False,False,False,8.534051,81.483852,0
+212.227.14.24,TR,West Alexstad,Peters and Sons Telecom,False,False,False,25.001429,71.880937,0
+204.33.141.236,AT,East Kathryn,"Shea, Williams and Freeman Telecom",False,False,False,57.388818,-5.046188,0
+167.79.19.7,US,East Codyville,"Herman, Wood and Ewing Telecom",True,False,False,-10.963499,-94.550271,0
+193.177.154.210,IT,North Margaretland,Bishop Inc Telecom,False,False,False,-21.202707,95.672573,0
+32.43.38.111,AT,West Jerry,Terry and Sons Telecom,False,False,False,33.949582,11.386922,0
+221.192.231.209,TR,Westberg,Phelps-Scott Telecom,False,False,False,34.707604,111.948115,0
+222.130.61.21,TR,Port Amanda,Parker-Miller Telecom,False,False,False,45.740655,-12.072596,0
+207.110.172.141,XK,Nathanielburgh,"Thompson, Daniels and Boyd Telecom",False,False,False,-56.029928,71.887135,0
+196.89.249.158,GB,Port Jamestown,Dunn-Zhang Telecom,False,False,False,-39.499078,22.044006,0
+132.197.95.250,XK,Port Julianstad,Gonzales-Hanson Telecom,False,False,False,-0.293306,-63.459283,0
+221.4.220.185,DE,Jadeton,"Blackwell, Hines and Davis Telecom",False,False,False,-11.747872,72.935007,0
+23.215.131.96,IT,North John,Hanson-Johnson Telecom,False,False,False,52.020527,-95.960704,0
+211.52.58.244,XK,East Frankshire,Sanchez-Anderson Telecom,False,False,False,-34.08165,115.002034,0
+197.137.169.148,DE,New Christopher,"Allen, Dillon and Campbell Telecom",False,True,False,-13.323564,53.807915,0
+134.131.252.245,XK,North Michaelside,"Cabrera, Knox and Cuevas Telecom",False,False,False,33.051235,58.66086,0
+79.197.57.182,TR,Smithport,"Hines, Moreno and Park Telecom",False,False,False,-25.69162,40.571054,0
+92.40.124.84,CH,West Eric,Moore-Arias Telecom,False,False,False,-33.335309,65.08877,0
+200.149.16.111,DE,Grantmouth,Anderson-Thompson Telecom,False,False,False,6.671042,-101.845039,0
+98.124.171.101,XK,Gloverchester,Evans Inc Telecom,False,False,False,-55.574398,-85.704911,0
+102.61.134.244,AT,Tracyton,Robertson-Grant Telecom,False,False,False,-33.392514,-84.003733,0
+162.49.99.24,XK,New Mark,Edwards-Taylor Telecom,False,False,False,-56.451643,-39.304219,0
+221.102.137.197,XK,Port Loristad,Hall Group Telecom,False,False,False,26.016902,113.027092,0
+87.70.77.183,AT,Mirandaside,Smith LLC Telecom,False,False,False,57.070874,-76.091408,0
+209.169.134.104,TR,Estradafort,Castro-Mathews Telecom,False,False,False,-1.066637,-69.785001,0
+107.58.4.80,XK,New Richard,Galloway PLC Telecom,False,False,False,-14.233832,-48.155025,0
+96.125.187.151,GB,Woodchester,"Davis, Foster and Miller Telecom",False,False,False,24.08651,-88.70938,0
+166.24.210.14,AT,Tranbury,Blackwell Group Telecom,False,False,False,-20.030309,25.068809,0
+194.166.169.8,TR,East Stacyport,Owen-Wilson Telecom,False,False,False,-23.454526,-72.349479,0
+59.154.196.118,XK,Lake George,Kane-Middleton Telecom,False,True,False,-25.080206,-7.245024,0
+197.248.220.102,XK,Carrchester,Turner and Sons Telecom,False,False,False,8.611377,66.148642,0
+151.193.131.33,CH,Mathewsberg,Burns-Brown Telecom,False,False,False,3.697949,4.969372,0
+143.127.15.33,CH,Pammouth,"Collier, Sanchez and Walker Telecom",False,False,False,56.92365,104.943911,0
+53.58.235.196,XK,Patrickfort,Johnson PLC Telecom,False,False,False,-12.319544,-41.327021,0
+199.182.173.216,IT,Joshuaview,Johnston Inc Telecom,False,False,False,22.304865,-18.79711,0
+89.86.206.63,MK,West Rachelmouth,"White, Murray and Aguilar Telecom",False,False,False,13.347124,-66.932323,0
+210.83.100.98,XK,Samuelshire,"Allen, Johnson and Williams Telecom",False,False,False,20.74238,-94.219745,0
+19.105.107.52,DE,Nathanview,"Kennedy, Lee and Casey Telecom",False,False,False,24.68002,-34.981573,0
+166.64.185.7,XK,Barberhaven,"Adams, Jones and Douglas Telecom",False,False,False,-6.189346,34.058164,0
+104.169.179.134,DE,Joseside,Mitchell-Parsons Telecom,False,False,False,32.070962,-22.008952,0
+139.133.48.142,AT,Williamside,Goodwin Inc Telecom,False,False,False,59.180267,-9.469408,0
+137.78.88.246,AT,South Benjamin,"Miller, Turner and Juarez Telecom",True,False,False,-6.731769,-63.438639,0
+198.30.206.55,XK,East Madison,Tate and Sons Telecom,False,False,False,-39.712084,-22.907422,0
+77.136.132.205,AT,Lake William,Contreras LLC Telecom,False,False,False,63.526436,106.264973,0
+158.55.228.139,XK,Port Tyrone,"Soto, Ball and Henry Telecom",False,False,False,-40.95831,107.409824,0
+192.212.123.195,AL,Grantside,"Moore, Austin and Bennett Telecom",False,False,False,43.01007,85.699541,0
+148.62.57.138,XK,Harringtonborough,"Kim, Higgins and James Telecom",False,False,False,-5.515476,115.797061,0
+150.47.239.254,AT,Longville,Riley Group Telecom,False,False,False,15.392492,-93.922289,0
+164.247.79.73,IT,Lake Sarahfort,"Harris, Duncan and Parker Telecom",False,False,False,-46.638513,19.614543,0
+122.146.26.39,AL,New Connieberg,"Singleton, Cole and Martinez Telecom",False,False,False,34.506318,-91.466491,0
+176.145.248.75,DE,West Laurenburgh,Williamson PLC Telecom,False,False,False,50.201216,-42.776992,0
+162.159.198.51,US,New Heathershire,"Ramos, Mendoza and Lee Telecom",False,False,False,-5.394079,107.048425,0
+39.202.234.238,TR,Simpsonshire,"Lewis, Taylor and Mitchell Telecom",False,False,False,32.180056,85.820891,0
+200.175.78.209,XK,North Erica,"Clark, Fisher and White Telecom",False,False,False,-48.680459,-69.82632,0
+65.179.144.145,GB,Alvarezhaven,"Brooks, Ramsey and Gibson Telecom",False,False,False,6.056285,57.580485,0
+196.177.56.154,DE,Juliestad,Franklin-Chavez Telecom,False,False,False,20.873035,89.653975,0
+213.157.149.37,DE,New Juliaton,Jackson PLC Telecom,False,False,False,38.595375,-112.910435,0
+189.165.135.201,TR,North Linda,Mendoza-Norman Telecom,False,False,False,-59.591892,-93.216571,0
+180.146.155.14,XK,New Tyler,Leonard-Lewis Telecom,False,False,False,-37.18426,-63.90394,0
+55.100.136.57,XK,East James,French LLC Telecom,True,False,False,18.658072,52.415749,0
+73.173.65.106,AT,Kington,"Fisher, Wagner and Thornton Telecom",False,False,False,38.47559,-91.608822,0
+148.27.156.163,AL,East April,"Rivers, Ruiz and Clark Telecom",False,False,False,19.124987,101.201347,0
+22.6.128.39,CH,New Michael,Gutierrez-Johnson Telecom,False,False,False,35.805019,-34.995185,0
+12.215.30.50,IT,North Gary,Ruiz-Smith Telecom,False,False,False,52.178108,-59.165443,0
+131.246.127.121,IT,East Yvette,Gonzales-Jensen Telecom,False,False,False,-56.375162,26.558439,0
+146.82.158.218,CH,Andrewview,"Harrison, Wilson and Wilson Telecom",False,False,False,-29.469701,7.137666,0
+137.51.58.246,IT,New Donaldhaven,Arias Ltd Telecom,False,False,False,63.626201,65.812714,0
+13.243.199.86,CH,Sharonfort,Lopez and Sons Telecom,False,False,False,44.778118,31.059876,0
+165.17.54.73,TR,Terrimouth,Kennedy-Yang Telecom,True,False,False,8.386346,93.139751,0
+221.141.18.68,AT,Williamshire,Soto-Gonzalez Telecom,False,False,False,-48.77018,-11.148997,0
+71.104.231.183,XK,East Cheryl,Rodriguez Inc Telecom,False,False,False,49.577716,115.425046,0
+193.161.114.170,XK,New Josephmouth,Cook-Combs Telecom,False,False,False,20.265922,-117.778713,0
+91.141.17.235,CH,South Christopher,Rosario-Perez Telecom,False,False,False,-31.518188,94.051856,0
+153.230.223.0,US,Hoffmantown,Haley-Wagner Telecom,False,False,False,9.677034,27.801151,0
+59.69.249.63,CH,Port Kathryn,Bennett PLC Telecom,False,False,False,-39.54856,72.724612,0
+156.135.82.102,TR,Houseport,Fernandez-Gross Telecom,False,False,False,-6.097143,-98.491573,0
+8.28.114.54,IT,East Samuelville,Santos-Byrd Telecom,False,False,False,14.642908,69.312285,0
+50.186.42.62,US,Michaelchester,Morris and Sons Telecom,False,False,False,47.499162,44.278243,0
+210.32.157.22,IT,Conwaychester,Perez Inc Telecom,False,False,False,-20.351003,-44.261103,0
+141.254.204.86,XK,Port Anthonyfort,"Joyce, Jacobs and Gill Telecom",False,False,False,-30.220692,-54.250492,0
+222.109.252.6,DE,Boydland,Deleon Ltd Telecom,False,False,False,-21.706342,-6.612392,0
+164.166.230.249,DE,Josephville,Ramirez and Sons Telecom,False,False,False,-17.944098,-94.158113,0
+156.180.26.75,XK,South Peggyport,Foster and Sons Telecom,False,False,False,27.022991,4.634543,0
+133.210.215.173,US,Port Allison,"Stewart, Scott and Allen Telecom",False,False,False,-44.21261,-27.749778,0
+126.239.175.38,AT,Wendyside,Mccormick-Johnson Telecom,False,False,False,54.71846,-115.698385,0
+80.166.203.149,XK,North David,"Alvarez, Durham and Rodriguez Telecom",False,False,False,-32.68215,-0.276779,0
+84.232.225.177,XK,North Pamelamouth,Taylor-Young Telecom,False,False,False,-40.222092,54.802817,0
+206.23.231.179,IT,East Jacquelineville,"Atkinson, Lewis and Henderson Telecom",False,False,False,-44.137232,75.949836,0
+185.203.27.98,XK,South Anthony,Tran PLC Telecom,False,False,False,-49.368179,51.164862,0
+103.3.143.143,XK,West Jillianmouth,Johnson-Bishop Telecom,False,False,False,12.288316,27.193928,0
+134.152.45.153,AT,New Carlos,"Moreno, Thomas and Kennedy Telecom",False,False,False,16.974798,-60.781218,0
+203.28.40.4,CH,New Benjamin,Barnett PLC Telecom,False,False,False,-43.563305,96.845228,0
+203.208.230.152,AL,Paynemouth,Moreno Ltd Telecom,False,False,False,40.716853,16.353738,0
+78.184.55.19,XK,Ryanburgh,Mcdowell LLC Telecom,False,False,False,-18.824796,81.73876,0
+165.145.151.243,XK,New Craig,"Mccarthy, Barry and Cunningham Telecom",False,False,False,0.65411,19.400228,0
+172.93.138.154,AT,Lake Patricia,"Rose, Gregory and Parker Telecom",False,False,False,55.430294,44.841717,0
+202.121.36.215,XK,Torresberg,Sanchez Ltd Telecom,False,False,False,62.712693,-40.553813,0
+172.134.101.243,RU,Duffychester,"Davis, Wiley and Gonzalez Telecom",True,True,True,15.163366,33.042788,85
+55.248.223.18,XK,Ashleyfurt,Ballard-Heath Telecom,False,False,False,14.384575,-37.302768,0
+220.109.210.187,XK,North Megan,"Mcintyre, Schmidt and Ward Telecom",False,False,False,-39.738381,-113.880361,0
+181.124.42.181,XK,New Joshua,Mason-Jenkins Telecom,False,False,False,15.834188,-88.265179,0
+206.115.103.61,XK,Martinezmouth,"Johnson, Golden and Parker Telecom",False,False,False,-46.55726,50.576936,0
+63.22.4.107,MK,North Gina,"Stone, Moon and Howard Telecom",False,False,False,58.702113,88.495286,0
+212.10.164.114,DE,Rodriguezburgh,"Bryant, Guerrero and Hardin Telecom",False,False,False,-26.321685,79.40944,0
+47.60.15.13,XK,Taylorborough,Curry-Weber Telecom,False,False,False,47.730376,101.865583,0
+199.93.53.250,XK,Lake Michelle,Mcintyre-Robinson Telecom,False,False,False,44.135985,59.000101,0
+206.96.45.29,CH,Robertville,Smith Inc Telecom,False,True,False,-10.74279,-50.734838,0
+193.134.1.120,AT,Mccannport,Lane PLC Telecom,False,False,False,27.941513,104.068827,0
+220.56.114.162,XK,New Destiny,Melton LLC Telecom,False,False,False,37.668313,27.658806,0
+3.191.165.62,XK,Lake Rebecca,Pham LLC Telecom,False,False,False,-9.148121,37.340116,0
+69.146.38.3,AL,South Duane,Barnett-Wilkins Telecom,False,False,False,24.401857,-109.856092,0
+11.87.34.138,XK,Washingtonshire,Vincent Group Telecom,False,False,False,28.098612,-72.794735,0
+46.209.223.137,US,Triciaton,"Cooper, Holden and Rivera Telecom",False,False,False,21.254984,96.085245,0
+7.43.60.100,MK,Jonesborough,Cunningham LLC Telecom,False,False,False,30.594865,115.443753,0
+175.130.10.22,GB,North Marco,Hartman Inc Telecom,True,False,False,24.703526,80.634111,0
+189.112.76.149,XK,Davidberg,Woodard-Vasquez Telecom,False,False,False,61.204786,64.733341,0
+169.141.195.239,MK,Lake Kathrynstad,Newman-Johnson Telecom,True,False,False,-36.002939,19.616165,0
+13.110.73.57,XK,West Nancy,Schwartz-Caldwell Telecom,False,False,False,-48.954249,-80.991863,0
+20.39.37.224,US,Victoriaview,"Johnson, Hensley and Middleton Telecom",False,False,False,-43.05425,-46.875214,0
+215.4.25.249,NG,Jameschester,"Smith, Maldonado and Monroe Telecom",True,False,False,59.722814,38.060348,85
+188.156.30.219,AT,Bradleyland,Cummings-Jones Telecom,False,False,False,-31.09452,-107.820902,0
+180.212.124.119,AT,Maychester,Petersen LLC Telecom,False,False,False,-1.635127,19.173555,0
+204.120.12.144,DE,Greenchester,"Rios, Montgomery and Mcdonald Telecom",False,False,False,-49.897178,-64.122398,0
+112.173.31.105,XK,Michelleshire,Hoffman and Sons Telecom,False,False,False,36.537497,-110.349263,0
+197.168.82.254,XK,Lake Lisachester,Marshall-Parks Telecom,False,False,False,-53.28529,54.522402,0
+130.201.36.231,XK,New David,Byrd-Huff Telecom,True,False,True,30.609747,99.734787,0
+177.204.2.61,GB,Vanessabury,Carrillo-Smith Telecom,False,False,False,-24.434381,-99.444287,0
+167.215.167.128,XK,East Amyfort,"Bowers, Stephens and Brown Telecom",False,False,False,41.418308,-89.350353,0
+1.150.243.105,CH,New Maryberg,Howard-Pineda Telecom,False,False,False,-25.193773,65.939828,0
+206.71.47.224,XK,Marshton,"Newman, Hall and Williams Telecom",False,False,False,-53.232627,-8.733869,0
+93.226.0.40,AL,Rileyshire,"Davis, Guzman and Gardner Telecom",False,False,False,30.240722,-22.265092,0
+110.141.116.145,US,Lewisport,Gonzalez Inc Telecom,False,False,False,16.74207,-68.13393,0
+220.181.75.32,XK,Lake Brianton,"Miles, Smith and Martin Telecom",False,False,False,43.403503,-82.596686,0
+220.49.232.221,XK,West Jenniferport,"Miller, Cox and Thomas Telecom",False,False,False,-24.142203,46.07739,0
+170.243.30.149,US,Andersonberg,Hanson-Burton Telecom,False,False,False,42.715252,100.954138,0
+164.76.4.24,GB,Michaelburgh,Green LLC Telecom,False,False,False,23.21869,-101.986573,0
+133.61.26.73,AL,West Johnport,Taylor-Schroeder Telecom,False,False,False,62.438436,72.449388,0
+163.55.39.188,DE,Port Kevin,"Perry, Ho and Miller Telecom",True,False,True,23.832925,-119.615358,0
+141.20.179.95,CH,Drewport,"Holt, Compton and Norris Telecom",True,False,False,31.289271,-107.326039,0
+159.65.163.148,MK,Port Lindseymouth,"Warner, Mercado and Wade Telecom",False,False,False,-34.524782,51.219469,0
+44.142.130.245,XK,Jacksonchester,"Petty, Pham and Smith Telecom",False,False,False,7.694657,43.850603,0
+64.26.66.27,IT,Smithchester,"Gonzales, Phillips and Smith Telecom",False,False,False,63.788356,-35.872453,0
+212.33.106.127,AL,South Randall,"Reeves, Wright and Pratt Telecom",False,False,False,15.720364,108.270429,0
+164.188.184.33,TR,West Josephshire,Hall Group Telecom,False,False,False,-14.969247,44.850539,0
+179.87.206.82,DE,New Sharon,Ward-Mcdaniel Telecom,False,False,False,37.551619,-8.980449,0
+181.74.67.34,CH,Deleonmouth,Chang PLC Telecom,False,False,False,51.085662,-89.224781,0
+193.65.167.95,CH,Johnstonberg,"Henderson, Duran and Lee Telecom",False,False,False,-7.468784,-119.787541,0
+221.2.241.244,CH,East Christine,Campbell PLC Telecom,False,False,False,-52.940439,-76.106964,0
+211.99.48.10,IT,Lake Joseph,Wilson-Pierce Telecom,False,False,False,-41.635257,36.325838,0
+222.152.104.76,AL,Monicaland,Hooper Group Telecom,False,False,False,-38.564988,-10.534937,0
+213.37.195.148,XK,Port Nicholasside,Holmes-Briggs Telecom,False,False,False,11.109604,-0.411766,0
+196.190.79.149,TR,North Joseph,Neal-Mcpherson Telecom,False,False,False,-12.952668,11.403088,0
+151.69.22.66,AT,Port Williamhaven,Rangel Inc Telecom,False,False,False,3.971503,107.301879,0
+210.67.10.98,TR,Jacquelineville,"Bowen, Miller and Chen Telecom",False,False,False,-23.042035,-94.509107,0
+201.110.141.56,US,South Kathryntown,West-Montoya Telecom,False,False,False,-57.470948,6.46652,0
+214.40.238.198,XK,Kleinland,Erickson-Bishop Telecom,False,False,False,-51.164542,-39.848412,0
+218.81.13.8,DE,Davisville,Willis and Sons Telecom,False,False,False,62.063995,42.317905,0
+92.101.40.135,CH,Graceberg,"Freeman, Rodriguez and Stewart Telecom",False,False,False,39.078952,-12.53985,0
+195.134.1.29,TR,Lake Kathrynstad,Baker and Sons Telecom,False,False,False,-0.905774,44.803456,0
+168.113.20.82,CH,West Tracy,"Hernandez, Martin and Mejia Telecom",False,False,False,56.417111,-10.576352,0
+197.189.226.107,TR,Ibarrafurt,"Dennis, Mitchell and Rivera Telecom",False,False,False,-56.686671,-13.362498,0
+221.204.126.77,GB,Lake Randy,Barber-Adams Telecom,False,False,False,23.940628,69.321848,0
+20.109.14.97,CH,Lake Riley,"Summers, Matthews and Scott Telecom",False,False,False,-12.392046,33.462667,0
+210.119.196.21,XK,Lake Austinport,Gonzalez-Walker Telecom,False,False,False,53.454849,32.957064,0
+205.80.163.145,MK,East Amandafurt,"Smith, Shaffer and White Telecom",False,False,False,32.4389,107.363881,0
+130.223.123.13,AT,Michaelburgh,Morris Inc Telecom,False,False,False,-5.570745,-29.708923,0
+97.91.222.118,IT,Wellsstad,"Herrera, Pope and Pugh Telecom",False,False,False,-24.348834,-40.408211,0
+73.54.31.233,MK,New Samantha,Lopez Group Telecom,False,False,False,-33.306362,58.231019,0
+204.255.228.77,DE,South William,Frederick PLC Telecom,False,False,False,49.740929,-86.804995,0
+200.75.27.25,XK,Port Thomasmouth,"Parsons, Casey and Miller Telecom",False,False,False,-37.576347,88.540098,0
+191.82.133.74,XK,Markbury,Tapia and Sons Telecom,False,False,False,-55.611555,-49.037997,0
+214.181.208.127,XK,Thompsonstad,Anderson-Gonzalez Telecom,False,False,False,42.412488,-107.875328,0
+210.21.50.199,XK,Joelview,"May, Smith and Contreras Telecom",False,False,False,40.753216,-76.688869,0
+217.111.18.32,TR,Scottmouth,Gonzales-Monroe Telecom,False,False,False,30.983573,24.867926,0
+158.123.33.14,XK,Beasleymouth,Johnson-King Telecom,False,False,False,-38.767762,-6.262624,0
+161.240.35.243,IT,West Jeffreystad,"Henson, Watson and Neal Telecom",False,False,False,-58.324501,-59.077636,0
+149.12.116.64,XK,Rubenton,"Huff, Price and Pope Telecom",False,False,False,33.603048,-19.229315,0
+214.187.84.226,GB,North Heathershire,"Gonzales, Sutton and Bradley Telecom",False,False,False,56.499665,1.186162,0
+217.242.224.147,IT,East Carolyn,Peterson Inc Telecom,False,False,False,21.638571,23.387923,0
+218.112.48.15,AT,Lake Paulaland,Williams Ltd Telecom,False,False,False,-0.147085,-40.861207,0
+207.238.198.65,CH,East Katherine,Castro Ltd Telecom,False,True,False,12.914009,68.153022,0
+198.115.15.204,XK,South Brandon,"Wagner, Collins and Gordon Telecom",False,False,False,-35.179723,29.062536,0
+212.182.251.4,US,Davidfurt,Rogers Inc Telecom,False,False,False,6.35468,80.407008,0
+179.57.2.136,XK,Kimberlystad,"Tanner, Washington and Adams Telecom",False,False,False,-0.230691,95.624883,0
+134.32.24.1,MK,Lake Alexisborough,"Garcia, Watson and Bell Telecom",False,False,False,-31.130811,-25.520184,0
+193.235.129.196,CH,North Mary,Rojas-Williams Telecom,False,False,False,42.254287,-90.929271,0
+163.2.74.200,CH,Lake Nathan,"Hernandez, Fernandez and Payne Telecom",False,False,False,-16.356184,92.123762,0
+188.53.175.1,XK,Brandifurt,Blair LLC Telecom,False,False,False,-18.889357,-16.980637,0
+27.23.89.122,US,North Brandiland,"Rodriguez, Johnson and Lee Telecom",False,False,False,-29.466901,-42.122044,0
+197.113.219.214,AL,New Brandon,Lopez-West Telecom,False,False,False,36.266464,3.783248,0
+188.131.229.191,MK,North Miguel,Mills PLC Telecom,False,False,False,63.338462,-88.331759,0
+114.212.34.214,IR,Soniaview,Chen Ltd Telecom,False,True,False,54.605505,-92.608461,75
+18.115.238.52,GB,Port Mario,Watkins-Beltran Telecom,False,False,False,-54.662409,47.809565,0
+199.183.199.127,AT,Lake Robinville,"Dunn, Blackwell and Leach Telecom",False,False,False,-29.772643,114.838985,0
+46.39.20.108,DE,Lunaville,"Wyatt, Reed and Castaneda Telecom",False,False,False,3.973394,-27.117585,0
+205.252.158.153,DE,Scottburgh,"Carter, Bennett and Cummings Telecom",False,False,False,33.42522,-85.246978,0
+139.119.162.27,XK,Clineburgh,"Collins, Anderson and Adams Telecom",False,False,False,-44.422041,70.874435,0
+144.220.126.57,MK,Lake Pamelaborough,"Lewis, Thomas and Brown Telecom",False,False,False,-21.608441,-57.967673,0
+111.138.160.54,XK,Gilbertville,Robinson Group Telecom,False,False,False,34.820942,-63.235748,0
+54.221.44.5,XK,North Ryan,Mcfarland Ltd Telecom,False,False,False,20.733525,25.832135,0
+210.21.26.4,AL,Port Davidburgh,"Jones, Palmer and Rhodes Telecom",False,False,False,-15.974157,43.954315,0
+108.120.190.88,US,Lewisport,Cooper and Sons Telecom,True,False,False,-8.234142,-57.007454,0
+155.228.209.93,US,Vazquezfurt,Williams-Johnson Telecom,False,False,False,-32.109008,44.6753,0
+108.163.242.118,GB,Lake Davidberg,Vargas-Vang Telecom,False,False,False,44.07217,78.084142,0
+126.233.245.199,AL,West Cherylberg,Adams-Le Telecom,False,False,False,31.253839,115.437461,0
+97.60.168.178,XK,Rebeccaton,"Levine, Mendez and Mcclure Telecom",True,False,False,-50.241707,19.695176,0
+164.128.70.108,XK,Tracytown,"Turner, Vargas and Dyer Telecom",False,False,False,55.657955,51.160886,0
+147.91.183.138,XK,Caldwellborough,"Oconnell, Robinson and Daniels Telecom",False,False,False,13.250392,75.935031,0
+173.79.204.173,XK,Johnsonland,Hoffman-Perez Telecom,False,False,False,54.895745,5.705722,0
+218.97.108.236,IT,South Eriktown,Howard Ltd Telecom,False,False,False,58.17555,-55.325335,0
+42.241.120.231,MK,Mercermouth,Williams LLC Telecom,False,False,False,-30.461226,-42.321121,0
+196.184.253.139,TR,Bethfurt,Mora-Butler Telecom,False,False,False,44.933559,-33.853457,0
+119.18.69.226,DE,Coryfort,"Powell, Adams and Hudson Telecom",True,False,False,50.737089,96.708774,0
+145.212.69.74,IT,Davidland,Cardenas-Vaughn Telecom,True,False,False,-44.681445,85.231425,0
+72.42.145.34,IT,New Derek,Davis LLC Telecom,False,False,False,34.739562,-14.395964,0
+151.171.24.165,IT,West Robertmouth,"Garrett, Rich and Henry Telecom",False,False,False,36.106415,-109.544417,0
+222.104.169.96,TR,Lake Patrickfurt,"Sexton, Nelson and Pena Telecom",False,False,False,44.962067,87.890688,0
+210.112.53.35,IT,Port Heatherstad,Bush-Marshall Telecom,False,False,False,-48.207171,-21.750166,0
+207.60.75.199,GB,Muellerberg,Christensen Ltd Telecom,False,False,False,-34.787342,-69.13965,0
+212.172.236.87,XK,New Joemouth,Burton Ltd Telecom,False,False,False,-1.081975,27.735092,0
+93.217.27.115,XK,Debbiehaven,Moore and Sons Telecom,False,False,False,21.312181,-76.173064,0
+167.4.200.117,DE,Drewville,Robles-Jackson Telecom,False,False,False,39.907997,93.026909,0
+155.236.206.11,XK,Jacquelinechester,King Group Telecom,False,False,False,4.157993,42.332437,0
+152.202.25.115,MK,Garciaburgh,Martin-Nguyen Telecom,True,False,False,55.268276,-50.178618,0
+173.21.225.26,MK,Lake Vernon,"Ibarra, Jones and Flores Telecom",False,False,False,22.26398,45.797397,0
+194.187.211.106,XK,East Williamview,Meyers Inc Telecom,False,False,False,-39.170159,-50.393724,0
+199.84.115.195,TR,Lake Jamieton,White-Williams Telecom,False,False,False,13.988906,118.68002,0
+55.177.219.212,GB,Williamschester,Harrington-Santana Telecom,False,False,False,9.123882,-97.094383,0
+170.31.229.98,IT,Christopherfort,Montgomery-Hernandez Telecom,False,False,False,-41.157154,-23.910569,0
+109.224.33.56,GB,Campbellmouth,Thomas Group Telecom,False,False,False,-54.990517,114.690311,0
+155.160.235.107,IT,Port Monica,Daniels-Burch Telecom,False,False,False,8.869919,-52.483881,0

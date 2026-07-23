@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.11.7
+pydantic-settings==2.7.1
+neo4j==5.27.0
+graphdatascience==1.22
+pandas==2.2.3
+numpy==2.2.1
+faker==33.1.0
+python-dotenv==1.0.1
+httpx==0.28.1
+
+pytest==8.3.4
+pytest-asyncio==0.25.0
+pytest-cov==6.0.0
+ruff==0.8.4
+mypy==1.14.0
